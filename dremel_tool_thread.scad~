@@ -1,6 +1,0 @@
-include <threads.scad>;
-
-difference() {
-	//cylinder(d = 19, h=31);
-	metric_thread(19, 2, 30);
-}
